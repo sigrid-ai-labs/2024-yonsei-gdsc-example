@@ -1,318 +1,318 @@
 user_message,intent,category,llm
-일본 혼슈에 태풍이 상륙했어?,News and Updates,Information Seeking,gemini-mini
-あまり興味無い、全く興味無い熟語ありますか,Fact-Finding,Information Seeking,gemini-mini
-protools aaeエラー 941の原因は？,Technical Issues,Information Seeking,gemini-mini
-반포지하상가,Product or Service Inquiry,Information Seeking,gemini-mini
-이미 변작된 전산기록을 출력한 문서는 무슨문서인지?,Fact-Finding,Information Seeking,gemini-mini
-1996년 OECD 가입했을때 표 찾아줘,Fact-Finding,Information Seeking,gemini-mini
-몽골소식,News and Updates,Information Seeking,gemini-mini
-수소 관련 유망주,Strategic Analytics,Information Seeking,gemini-mini
-초파리 기관 형성에 관여하는 혹스 유전자,Fact-Finding,Information Seeking,gemini-mini
-ティアラ江東の清掃スタッフ岸の問題異常行動とは,Fact-Finding,Information Seeking,gemini-mini
-사과문 개요서,Tutorials and How-Tos,Information Seeking,gemini-mini
-군인이 매년 받는 건강검진의 이름은?,Fact-Finding,Information Seeking,gemini-mini
-이번달 오르는 주식전망,Strategic Analytics,Information Seeking,gemini-mini
-토평2지구 보상 언제쯤이루어질까요,News and Updates,Information Seeking,gemini-mini
-株式と債券の上昇と暴落はおなじ、わりあいですか？,Fact-Finding,Information Seeking,gemini-mini
-콩나물무침을 냉장고에 며칠동안 보관할 수 있어???,Fact-Finding,Information Seeking,gemini-mini
-동독통일의 에피소드,Fact-Finding,Information Seeking,gemini-mini
-소망대교,Fact-Finding,Information Seeking,gemini-mini
-中国　港じゅおうおおはし,Fact-Finding,Information Seeking,gemini-mini
-電気代の割引は何月分から,Product or Service Inquiry,Information Seeking,gemini-mini
-566라멘  메뉴 추천해줘요,Advice and Recommendation,Information Seeking,gemini-mini
-저출산 고령사회의 원인 알려줘,Fact-Finding,Information Seeking,gemini-mini
-초록색과 어울리는 색상,Advice and Recommendation,Information Seeking,gemini-mini
-핀제더 아플까,Advice and Recommendation,Information Seeking,gemini-mini
-小説を書くときに重要なこと,Advice and Recommendation,Information Seeking,gemini-mini
-건강보험자격득실확인서는 왜 요구하는가,Fact-Finding,Information Seeking,gemini-mini
-身近な税金の使われ方,Fact-Finding,Information Seeking,gemini-mini
-최신 뉴스 모아보는 곳 알려줘,Product or Service Inquiry,Information Seeking,gemini-mini
-서울 지하철 야간 운행시간은?,Product or Service Inquiry,Information Seeking,gemini-mini
-Linuxの日本語入力の種類,Product or Service Inquiry,Information Seeking,gemini-mini
-최근 보안 사고사례 이슈에 대해 알려줘,News and Updates,Information Seeking,gemini-mini
-BMW ix1 xDrive 30M 제원,Fact-Finding,Information Seeking,gemini-mini
-女性とのデートに、白いパンツはダメなのでしょうか？,Advice and Recommendation,Information Seeking,gemini-mini
-기부하기 좋은 물품좀 알려줘,Advice and Recommendation,Information Seeking,gemini-mini
-sbs파워fm 영스트리트 후임자가 누구야,News and Updates,Information Seeking,gemini-mini
-災害の時に使う便尿の凝固剤の名称とオススメを教えて,Product or Service Inquiry,Information Seeking,gemini-mini
-나무를 깎아서 큰대자가 써있는 일본산 이름 뭐야?,Product or Service Inquiry,Information Seeking,gemini-mini
-애니메이션스타일 살펴보기,Fact-Finding,Information Seeking,gemini-mini
-2024화랑대기 진흥대왕상,Fact-Finding,Information Seeking,gemini-mini
-건고추 평균가격,Product or Service Inquiry,Information Seeking,gemini-mini
+일본 혼슈에 태풍이 상륙했어?,News and Updates,Information Seeking,gpt-o1
+あまり興味無い、全く興味無い熟語ありますか,Fact-Finding,Information Seeking,gpt-o1
+protools aaeエラー 941の原因は？,Technical Issues,Information Seeking,gpt-o1
+반포지하상가,Product or Service Inquiry,Information Seeking,gpt-o1
+이미 변작된 전산기록을 출력한 문서는 무슨문서인지?,Fact-Finding,Information Seeking,gpt-o1
+1996년 OECD 가입했을때 표 찾아줘,Fact-Finding,Information Seeking,gpt-o1
+몽골소식,News and Updates,Information Seeking,gpt-o1
+수소 관련 유망주,Strategic Analytics,Information Seeking,gpt-o1
+초파리 기관 형성에 관여하는 혹스 유전자,Fact-Finding,Information Seeking,gpt-o1
+ティアラ江東の清掃スタッフ岸の問題異常行動とは,Fact-Finding,Information Seeking,gpt-o1
+사과문 개요서,Tutorials and How-Tos,Information Seeking,gpt-o1
+군인이 매년 받는 건강검진의 이름은?,Fact-Finding,Information Seeking,gpt-o1
+이번달 오르는 주식전망,Strategic Analytics,Information Seeking,gpt-o1
+토평2지구 보상 언제쯤이루어질까요,News and Updates,Information Seeking,gpt-o1
+株式と債券の上昇と暴落はおなじ、わりあいですか？,Fact-Finding,Information Seeking,gpt-o1
+콩나물무침을 냉장고에 며칠동안 보관할 수 있어???,Fact-Finding,Information Seeking,gpt-o1
+동독통일의 에피소드,Fact-Finding,Information Seeking,gpt-o1
+소망대교,Fact-Finding,Information Seeking,gpt-o1
+中国　港じゅおうおおはし,Fact-Finding,Information Seeking,gpt-o1
+電気代の割引は何月分から,Product or Service Inquiry,Information Seeking,gpt-o1
+566라멘  메뉴 추천해줘요,Advice and Recommendation,Information Seeking,gpt-o1
+저출산 고령사회의 원인 알려줘,Fact-Finding,Information Seeking,gpt-o1
+초록색과 어울리는 색상,Advice and Recommendation,Information Seeking,gpt-o1
+핀제더 아플까,Advice and Recommendation,Information Seeking,gpt-o1
+小説を書くときに重要なこと,Advice and Recommendation,Information Seeking,gpt-o1
+건강보험자격득실확인서는 왜 요구하는가,Fact-Finding,Information Seeking,gpt-o1
+身近な税金の使われ方,Fact-Finding,Information Seeking,gpt-o1
+최신 뉴스 모아보는 곳 알려줘,Product or Service Inquiry,Information Seeking,gpt-o1
+서울 지하철 야간 운행시간은?,Product or Service Inquiry,Information Seeking,gpt-o1
+Linuxの日本語入力の種類,Product or Service Inquiry,Information Seeking,gpt-o1
+최근 보안 사고사례 이슈에 대해 알려줘,News and Updates,Information Seeking,gpt-o1
+BMW ix1 xDrive 30M 제원,Fact-Finding,Information Seeking,gpt-o1
+女性とのデートに、白いパンツはダメなのでしょうか？,Advice and Recommendation,Information Seeking,gpt-o1
+기부하기 좋은 물품좀 알려줘,Advice and Recommendation,Information Seeking,gpt-o1
+sbs파워fm 영스트리트 후임자가 누구야,News and Updates,Information Seeking,gpt-o1
+災害の時に使う便尿の凝固剤の名称とオススメを教えて,Product or Service Inquiry,Information Seeking,gpt-o1
+나무를 깎아서 큰대자가 써있는 일본산 이름 뭐야?,Product or Service Inquiry,Information Seeking,gpt-o1
+애니메이션스타일 살펴보기,Fact-Finding,Information Seeking,gpt-o1
+2024화랑대기 진흥대왕상,Fact-Finding,Information Seeking,gpt-o1
+건고추 평균가격,Product or Service Inquiry,Information Seeking,gpt-o1
 "無〇
 魚〇
 〇酔
 〇労
 
-〇に共通して入る漢字は？",Calculation and Logical Solving,Information Seeking,gemini-mini
-유방암 후유증,Fact-Finding,Information Seeking,gemini-mini
-블립의 뜻,Fact-Finding,Information Seeking,gemini-mini
-日本酒箱根山について教えて,Fact-Finding,Information Seeking,gemini-mini
-디올 뚜주흐 토트백 미듐 특징,Product or Service Inquiry,Information Seeking,gemini-mini
-불화마그네슘은 지정폐기물인지 알려주고 참고문헌을 찾아줘,Fact-Finding,Information Seeking,gemini-mini
-배송지명 뭐라고 쓰면 돼?,Advice and Recommendation,Information Seeking,gemini-mini
-판타지 소설 장르 50개 알려줘,Fact-Finding,Information Seeking,gemini-mini
-두산에너빌리티 ,Product or Service Inquiry,Information Seeking,gemini-mini
-8월에 잘 팔리는 해외구매대행 제품은?,Product or Service Inquiry,Information Seeking,gemini-mini
-고등학교 수행평가 잘 보는 법,Advice and Recommendation,Information Seeking,gemini-mini
-민재식 교사에 대해서 알려줘,Fact-Finding,Information Seeking,gemini-mini
-병원 모시고 가는 알바 ,Product or Service Inquiry,Information Seeking,gemini-mini
-물 135도에서 끓이려면 압력이 어느정도 필요해?,Fact-Finding,Information Seeking,gemini-mini
-금강송면 둘레길 연락처,Product or Service Inquiry,Information Seeking,gemini-mini
-쉽고 멋있는 비보잉 기술 5가지,Advice and Recommendation,Information Seeking,gemini-mini
-상남동 샤브시 매장 인테리어 및 음식 특징 ,Product or Service Inquiry,Information Seeking,gemini-mini
-국내 관광단지 개발 사례와 개발내용을 알려줘,Fact-Finding,Information Seeking,gemini-mini
-융의 분석심리학의 원형에 대해 자료 찾아줘,Fact-Finding,Information Seeking,gemini-mini
-삼전 주식,Product or Service Inquiry,Information Seeking,gemini-mini
-느끼한걸 잡아줄수 있는 음식 추천해줘,Advice and Recommendation,Information Seeking,gemini-mini
-이희영 작가 짧은 소개,Fact-Finding,Information Seeking,gemini-mini
-전남학숙이 뭐야,Fact-Finding,Information Seeking,gemini-mini
-산재환자 복직,Fact-Finding,Information Seeking,gemini-mini
-안문숙근황,News and Updates,Information Seeking,gemini-mini
-読書感想文の書き方のコツは？,Tutorials and How-Tos,Information Seeking,gemini-mini
-아파트 24평 입주청소 평균 가격은?,Product or Service Inquiry,Information Seeking,gemini-mini
-친구들과 나의 관계 ex)부자 관계 같이,Advice and Recommendation,Information Seeking,gemini-mini
-와이어본더 장비가 뭐야,Fact-Finding,Information Seeking,gemini-mini
-이번달 인천 밴츠화제났던  아파트  이름이  뭐야?,News and Updates,Information Seeking,gemini-mini
-이미지 회전,Tutorials and How-Tos,Information Seeking,gemini-mini
-서울대 불어교육학과 면접 질문,Fact-Finding,Information Seeking,gemini-mini
-청약통장 워크홀 가면 사라짐?,Fact-Finding,Information Seeking,gemini-mini
-脳腫瘍術後どのくらいで社会ふっき出来る⁉️,Advice and Recommendation,Information Seeking,gemini-mini
-シメジアプリで仮想ペットってありますか,Product or Service Inquiry,Information Seeking,gemini-mini
-다리에쥐났을때조치방법,Advice and Recommendation,Information Seeking,gemini-mini
-풍선초 씨앗,Fact-Finding,Information Seeking,gemini-mini
-타일폐기물톤수산정방법,Fact-Finding,Information Seeking,gemini-mini
-사회복지를전공하게된동기,Advice and Recommendation,Information Seeking,gemini-mini
-횡단보도에설치하는차량차단봉,Product or Service Inquiry,Information Seeking,gemini-mini
+〇に共通して入る漢字は？",Calculation and Logical Solving,Information Seeking,gpt-o1
+유방암 후유증,Fact-Finding,Information Seeking,gpt-o1
+블립의 뜻,Fact-Finding,Information Seeking,gpt-o1
+日本酒箱根山について教えて,Fact-Finding,Information Seeking,gpt-o1
+디올 뚜주흐 토트백 미듐 특징,Product or Service Inquiry,Information Seeking,gpt-o1
+불화마그네슘은 지정폐기물인지 알려주고 참고문헌을 찾아줘,Fact-Finding,Information Seeking,gpt-o1
+배송지명 뭐라고 쓰면 돼?,Advice and Recommendation,Information Seeking,gpt-o1
+판타지 소설 장르 50개 알려줘,Fact-Finding,Information Seeking,gpt-o1
+두산에너빌리티 ,Product or Service Inquiry,Information Seeking,gpt-o1
+8월에 잘 팔리는 해외구매대행 제품은?,Product or Service Inquiry,Information Seeking,gpt-o1
+고등학교 수행평가 잘 보는 법,Advice and Recommendation,Information Seeking,gpt-o1
+민재식 교사에 대해서 알려줘,Fact-Finding,Information Seeking,gpt-o1
+병원 모시고 가는 알바 ,Product or Service Inquiry,Information Seeking,gpt-o1
+물 135도에서 끓이려면 압력이 어느정도 필요해?,Fact-Finding,Information Seeking,gpt-o1
+금강송면 둘레길 연락처,Product or Service Inquiry,Information Seeking,gpt-o1
+쉽고 멋있는 비보잉 기술 5가지,Advice and Recommendation,Information Seeking,gpt-o1
+상남동 샤브시 매장 인테리어 및 음식 특징 ,Product or Service Inquiry,Information Seeking,gpt-o1
+국내 관광단지 개발 사례와 개발내용을 알려줘,Fact-Finding,Information Seeking,gpt-o1
+융의 분석심리학의 원형에 대해 자료 찾아줘,Fact-Finding,Information Seeking,gpt-o1
+삼전 주식,Product or Service Inquiry,Information Seeking,gpt-o1
+느끼한걸 잡아줄수 있는 음식 추천해줘,Advice and Recommendation,Information Seeking,gpt-o1
+이희영 작가 짧은 소개,Fact-Finding,Information Seeking,gpt-o1
+전남학숙이 뭐야,Fact-Finding,Information Seeking,gpt-o1
+산재환자 복직,Fact-Finding,Information Seeking,gpt-o1
+안문숙근황,News and Updates,Information Seeking,gpt-o1
+読書感想文の書き方のコツは？,Tutorials and How-Tos,Information Seeking,gpt-o1
+아파트 24평 입주청소 평균 가격은?,Product or Service Inquiry,Information Seeking,gpt-o1
+친구들과 나의 관계 ex)부자 관계 같이,Advice and Recommendation,Information Seeking,gpt-o1
+와이어본더 장비가 뭐야,Fact-Finding,Information Seeking,gpt-o1
+이번달 인천 밴츠화제났던  아파트  이름이  뭐야?,News and Updates,Information Seeking,gpt-o1
+이미지 회전,Tutorials and How-Tos,Information Seeking,gpt-o1
+서울대 불어교육학과 면접 질문,Fact-Finding,Information Seeking,gpt-o1
+청약통장 워크홀 가면 사라짐?,Fact-Finding,Information Seeking,gpt-o1
+脳腫瘍術後どのくらいで社会ふっき出来る⁉️,Advice and Recommendation,Information Seeking,gpt-o1
+シメジアプリで仮想ペットってありますか,Product or Service Inquiry,Information Seeking,gpt-o1
+다리에쥐났을때조치방법,Advice and Recommendation,Information Seeking,gpt-o1
+풍선초 씨앗,Fact-Finding,Information Seeking,gpt-o1
+타일폐기물톤수산정방법,Fact-Finding,Information Seeking,gpt-o1
+사회복지를전공하게된동기,Advice and Recommendation,Information Seeking,gpt-o1
+횡단보도에설치하는차량차단봉,Product or Service Inquiry,Information Seeking,gpt-o1
 "취업자 힐링 프로그램 추천
 
-",Advice and Recommendation,Information Seeking,gemini-mini
-선크림 지우는 법,Tutorials and How-Tos,Information Seeking,gemini-mini
-2024 카니발 하이브리드 ,Product or Service Inquiry,Information Seeking,gemini-mini
-세븐틴 앟아?,Fact-Finding,Information Seeking,gemini-mini
-노인주간보호센터 이용자 모집 획기적인 방법,Advice and Recommendation,Information Seeking,gemini-mini
-충남 부여에 관한 노래는 어떤게 있나요?,Fact-Finding,Information Seeking,gemini-mini
-신생아호흡곤란증후군,Fact-Finding,Information Seeking,gemini-mini
-完熟梅を有効に使って、長期利用の出来る方法は？,Advice and Recommendation,Information Seeking,gemini-mini
-マルチビタミンミネラルサプリの摂取頻度は？,Product or Service Inquiry,Information Seeking,gemini-mini
-전원에 내부저항이 있어?,Fact-Finding,Information Seeking,gemini-mini
-ただの七光りとはどういう意味,Fact-Finding,Information Seeking,gemini-mini
-SourceTreeでスカッシュする手順を教えてください。,Tutorials and How-Tos,Information Seeking,gemini-mini
-미얀마5년후 경제,Strategic Analytics,Information Seeking,gemini-mini
-한대 기후에 해당하는 나라를 알려줘,Fact-Finding,Information Seeking,gemini-mini
-한국 남작복숭아 1개 가격,Product or Service Inquiry,Information Seeking,gemini-mini
-참깨 발화,Fact-Finding,Information Seeking,gemini-mini
-부분집합의 포함되는 원소의 총합,Calculation and Logical Solving,Information Seeking,gemini-mini
-2001年宇宙の旅は、誰の原作ですか？,Fact-Finding,Information Seeking,gemini-mini
-공항시설 공사중 탄소저감대책,Fact-Finding,Information Seeking,gemini-mini
-憲法の定義とは？,Fact-Finding,Information Seeking,gemini-mini
-감동적인 부회장 공약좀 알려줘,Content Generation,Writing,gemini-mini
-잘 사귀는 커플을 5글자로 표혐해조,Content Generation,Writing,gemini-mini
-서울의 봄 줄거리 요약,Knowledge Abstraction,Writing,gemini-mini
-차해인 그려줘,Content Generation,Writing,gemini-mini
-가을 인사말 몇개 써줘,Content Generation,Writing,gemini-mini
-진나라 통일 과정 기사문으로 써줘,Content Generation,Writing,gemini-mini
-책을 읽기 전 생각해볼 수 있는 질문들을 작성해줘,Content Generation,Writing,gemini-mini
-배치전 건강검진에 대해 ppt,Content Generation,Writing,gemini-mini
-利用者家族への署名依頼の手例文,Content Generation,Writing,gemini-mini
-나 정병근인데 카트라이더유저야 자기소개해줘,Content Generation,Writing,gemini-mini
-티켓부스 알바 지원동기를 어떻게 써야할까,Content Generation,Writing,gemini-mini
-우리가 만드는 푸른하늘로 글을 써줘,Content Generation,Writing,gemini-mini
-굿파트너드라마에 대해서 줄거리 요양해줘,Knowledge Abstraction,Writing,gemini-mini
-나이팅게일은 죽었다. 인상 깊은 내영,Content Generation,Writing,gemini-mini
-위의 내용으로 1500자 이상 적어줘,Content Generation,Writing,gemini-mini
-手羽トロと豚肉で得られる栄養を比較してください,Knowledge Abstraction,Writing,gemini-mini
-심희재로 삼행시해줘,Content Generation,Writing,gemini-mini
-전남친에게 쓰는 편지에 들어가면 좋을 시적 문구 알려줘,Content Generation,Writing,gemini-mini
-타키온은 블랙홀에서 빠져 나갈 수 있어요.,Knowledge Abstraction,Writing,gemini-mini
-청렴 관련 표어 20개,Content Generation,Writing,gemini-mini
-신선한 양배추 사서 먹은 후기 자세하세 작성해줘,Content Generation,Writing,gemini-mini
-동일초 삼행시,Content Generation,Writing,gemini-mini
-생활에서 지도 이용하기 4학년 사회수업 지도안,Content Generation,Writing,gemini-mini
-임신 축하 문구 좀,Content Generation,Writing,gemini-mini
-メソポタミア文明の独自性を他文明と比較して説明して,Knowledge Abstraction,Writing,gemini-mini
-박합수 스케치 이미지,Content Generation,Writing,gemini-mini
-リアルな狼の絵を描いて,Content Generation,Writing,gemini-mini
-가을아 가을 오면가지 말아라 가을 가을 서정시,Content Generation,Writing,gemini-mini
-위글 제목 붙여줘,Content Generation,Writing,gemini-mini
-利用者家族へ署名の依頼の手紙の例文,Content Generation,Writing,gemini-mini
-나트랑에서의 여름 영어제목,Content Generation,Writing,gemini-mini
-간디에 대해서 소개해줘 30줄,Content Generation,Writing,gemini-mini
-rg퍼스트 2.0을 리뷰해줘,Content Generation,Writing,gemini-mini
-신으로 끝나는 단어 알려줘,Content Generation,Writing,gemini-mini
-민주주의 관련 활동을 하고 소감문 써줘,Content Generation,Writing,gemini-mini
-사단법인 훈민정음 세계화를 위한 기부금 협찬 문서 작성,Content Generation,Writing,gemini-mini
-의류 브랜드 이름 지어줘,Content Generation,Writing,gemini-mini
-嫉妬を扱うキャラクターを考えて欲しい,Content Generation,Writing,gemini-mini
-언어의 화석화란 무엇일까,Knowledge Abstraction,Writing,gemini-mini
-산리오 캐릭터즈 와 함께하는 구연동화 제트스피치 버전 ,Content Generation,Writing,gemini-mini
-「吾輩は猫である」の読書感想文を800字で作成してください,Content Generation,Writing,gemini-mini
-暑い！を俳句にして,Content Generation,Writing,gemini-mini
-Starry Nights  케이팝 곡 제목 제안해줘,Content Generation,Writing,gemini-mini
-반도체 산업에서의 화학 재료 공급에 관한 기사 써 줘,Content Generation,Writing,gemini-mini
-영작가 라는 닉네임의 영문 이름 추천해줘,Content Generation,Writing,gemini-mini
-스텔라이브 5행시 써줘 최대한 야릇하게,Content Generation,Writing,gemini-mini
-고자질과 신고의 차이는?,Knowledge Abstraction,Writing,gemini-mini
-타노스가 들어간 브랜드 이름 좀 알려쥐,Content Generation,Writing,gemini-mini
-순종의 장단점,Knowledge Abstraction,Writing,gemini-mini
+",Advice and Recommendation,Information Seeking,gpt-o1
+선크림 지우는 법,Tutorials and How-Tos,Information Seeking,gpt-o1
+2024 카니발 하이브리드 ,Product or Service Inquiry,Information Seeking,gpt-o1
+세븐틴 앟아?,Fact-Finding,Information Seeking,gpt-o1
+노인주간보호센터 이용자 모집 획기적인 방법,Advice and Recommendation,Information Seeking,gpt-o1
+충남 부여에 관한 노래는 어떤게 있나요?,Fact-Finding,Information Seeking,gpt-o1
+신생아호흡곤란증후군,Fact-Finding,Information Seeking,gpt-o1
+完熟梅を有効に使って、長期利用の出来る方法は？,Advice and Recommendation,Information Seeking,gpt-o1
+マルチビタミンミネラルサプリの摂取頻度は？,Product or Service Inquiry,Information Seeking,gpt-o1
+전원에 내부저항이 있어?,Fact-Finding,Information Seeking,gpt-o1
+ただの七光りとはどういう意味,Fact-Finding,Information Seeking,gpt-o1
+SourceTreeでスカッシュする手順を教えてください。,Tutorials and How-Tos,Information Seeking,gpt-o1
+미얀마5년후 경제,Strategic Analytics,Information Seeking,gpt-o1
+한대 기후에 해당하는 나라를 알려줘,Fact-Finding,Information Seeking,gpt-o1
+한국 남작복숭아 1개 가격,Product or Service Inquiry,Information Seeking,gpt-o1
+참깨 발화,Fact-Finding,Information Seeking,gpt-o1
+부분집합의 포함되는 원소의 총합,Calculation and Logical Solving,Information Seeking,gpt-o1
+2001年宇宙の旅は、誰の原作ですか？,Fact-Finding,Information Seeking,gpt-o1
+공항시설 공사중 탄소저감대책,Fact-Finding,Information Seeking,gpt-o1
+憲法の定義とは？,Fact-Finding,Information Seeking,gpt-o1
+감동적인 부회장 공약좀 알려줘,Content Generation,Writing,Claude
+잘 사귀는 커플을 5글자로 표혐해조,Content Generation,Writing,Claude
+서울의 봄 줄거리 요약,Knowledge Abstraction,Writing,Claude
+차해인 그려줘,Content Generation,Writing,Claude
+가을 인사말 몇개 써줘,Content Generation,Writing,Claude
+진나라 통일 과정 기사문으로 써줘,Content Generation,Writing,Claude
+책을 읽기 전 생각해볼 수 있는 질문들을 작성해줘,Content Generation,Writing,Claude
+배치전 건강검진에 대해 ppt,Content Generation,Writing,Claude
+利用者家族への署名依頼の手例文,Content Generation,Writing,Claude
+나 정병근인데 카트라이더유저야 자기소개해줘,Content Generation,Writing,Claude
+티켓부스 알바 지원동기를 어떻게 써야할까,Content Generation,Writing,Claude
+우리가 만드는 푸른하늘로 글을 써줘,Content Generation,Writing,Claude
+굿파트너드라마에 대해서 줄거리 요양해줘,Knowledge Abstraction,Writing,Claude
+나이팅게일은 죽었다. 인상 깊은 내영,Content Generation,Writing,Claude
+위의 내용으로 1500자 이상 적어줘,Content Generation,Writing,Claude
+手羽トロと豚肉で得られる栄養を比較してください,Knowledge Abstraction,Writing,Claude
+심희재로 삼행시해줘,Content Generation,Writing,Claude
+전남친에게 쓰는 편지에 들어가면 좋을 시적 문구 알려줘,Content Generation,Writing,Claude
+타키온은 블랙홀에서 빠져 나갈 수 있어요.,Knowledge Abstraction,Writing,Claude
+청렴 관련 표어 20개,Content Generation,Writing,Claude
+신선한 양배추 사서 먹은 후기 자세하세 작성해줘,Content Generation,Writing,Claude
+동일초 삼행시,Content Generation,Writing,Claude
+생활에서 지도 이용하기 4학년 사회수업 지도안,Content Generation,Writing,Claude
+임신 축하 문구 좀,Content Generation,Writing,Claude
+メソポタミア文明の独自性を他文明と比較して説明して,Knowledge Abstraction,Writing,Claude
+박합수 스케치 이미지,Content Generation,Writing,Claude
+リアルな狼の絵を描いて,Content Generation,Writing,Claude
+가을아 가을 오면가지 말아라 가을 가을 서정시,Content Generation,Writing,Claude
+위글 제목 붙여줘,Content Generation,Writing,Claude
+利用者家族へ署名の依頼の手紙の例文,Content Generation,Writing,Claude
+나트랑에서의 여름 영어제목,Content Generation,Writing,Claude
+간디에 대해서 소개해줘 30줄,Content Generation,Writing,Claude
+rg퍼스트 2.0을 리뷰해줘,Content Generation,Writing,Claude
+신으로 끝나는 단어 알려줘,Content Generation,Writing,Claude
+민주주의 관련 활동을 하고 소감문 써줘,Content Generation,Writing,Claude
+사단법인 훈민정음 세계화를 위한 기부금 협찬 문서 작성,Content Generation,Writing,Claude
+의류 브랜드 이름 지어줘,Content Generation,Writing,Claude
+嫉妬を扱うキャラクターを考えて欲しい,Content Generation,Writing,Claude
+언어의 화석화란 무엇일까,Knowledge Abstraction,Writing,Claude
+산리오 캐릭터즈 와 함께하는 구연동화 제트스피치 버전 ,Content Generation,Writing,Claude
+「吾輩は猫である」の読書感想文を800字で作成してください,Content Generation,Writing,Claude
+暑い！を俳句にして,Content Generation,Writing,Claude
+Starry Nights  케이팝 곡 제목 제안해줘,Content Generation,Writing,Claude
+반도체 산업에서의 화학 재료 공급에 관한 기사 써 줘,Content Generation,Writing,Claude
+영작가 라는 닉네임의 영문 이름 추천해줘,Content Generation,Writing,Claude
+스텔라이브 5행시 써줘 최대한 야릇하게,Content Generation,Writing,Claude
+고자질과 신고의 차이는?,Knowledge Abstraction,Writing,Claude
+타노스가 들어간 브랜드 이름 좀 알려쥐,Content Generation,Writing,Claude
+순종의 장단점,Knowledge Abstraction,Writing,Claude
 "총의 과학이라는 책에서 인상 깊었던 구절과 그 이유
-",Knowledge Abstraction,Writing,gemini-mini
-귀멸의칼날 무이치로를 그려,Content Generation,Writing,gemini-mini
-시골에 카페를 열거야 이름 10개만 지어줘,Content Generation,Writing,gemini-mini
-잘되는 기업은 무엇이 다를까 신형덕지음  요약해줘,Knowledge Abstraction,Writing,gemini-mini
-心のつぶやきを20個考えてください,Content Generation,Writing,gemini-mini
-유인상점과 무인상점의 운영 비용 차이점은 뭐야?,Knowledge Abstraction,Writing,gemini-mini
-잔반 최소화 포스터 아이디어를 생각해줘,Content Generation,Writing,gemini-mini
-종이비행기를 민화 스타일로 그려줘,Content Generation,Writing,gemini-mini
-영화 베테랑의 줄거리,Knowledge Abstraction,Writing,gemini-mini
-문학 재구성된 작품,Content Generation,Writing,gemini-mini
-nook 포함하는 닉네임 만들어줘,Content Generation,Writing,gemini-mini
-환경 봉사부로 5행시 해줘,Content Generation,Writing,gemini-mini
-dinnotion 으로 회사 로고 만들어줘,Content Generation,Writing,gemini-mini
-그림쟁이가 패러디하기 좋은 거 추천해줘,Content Generation,Writing,gemini-mini
-사랑의 시,Content Generation,Writing,gemini-mini
-임씨 성으로 ‘윤’ 이 들어가는 이름 30개 뽑아줘,Content Generation,Writing,gemini-mini
-RAPの終わりにBURASHIで締めたい,Content Generation,Writing,gemini-mini
-면접 불참으로 기업에 미리 연락할건데 문자 만들어줘,Content Generation,Writing,gemini-mini
-宮崎市、うどんでハッシュタグを生成して,Content Generation,Writing,gemini-mini
-감성적인 곤충주제 에세이 제목 10개만 부탁해,Content Generation,Writing,gemini-mini
-자소서도 작성가능하니,Content Generation,Writing,gemini-mini
-여름피부관리법에 대해 인스타에 올릴 피드를 만들어줘,Content Generation,Writing,gemini-mini
-若草物語感想文,Content Generation,Writing,gemini-mini
-動画作成,Content Generation,Writing,gemini-mini
-우리나라 공공의료 문제점과 개선방향,Knowledge Abstraction,Writing,gemini-mini
-그림 그려줘,Content Generation,Writing,gemini-mini
-주일예배 대표기도문,Content Generation,Writing,gemini-mini
-순례 주택 줄거리,Knowledge Abstraction,Writing,gemini-mini
-페미니스트가 봤을때 민희진은어떠한사람인가,Knowledge Abstraction,Writing,gemini-mini
-불안할 때 손톱물어뜯는이유는?을 주제로 서론써줘,Content Generation,Writing,gemini-mini
-민수기 6장 전체 내용은 어떤 의미를 가지고 있어?,Knowledge Abstraction,Writing,gemini-mini
-백승기 바보 5행시 해봐,Content Generation,Writing,gemini-mini
-첨부된 파일을 프리젠테이션으로 만들기 위해 요약해줘,Knowledge Abstraction,Writing,gemini-mini
-귀멸의칼날 팀 이름 지어줘,Content Generation,Writing,gemini-mini
-c컬 셋팅법 블로그 포스팅 해줘,Content Generation,Writing,gemini-mini
-다양한 그림을 로이 리히텐슈타인 화픙으로 그려보세요,Content Generation,Writing,gemini-mini
-문장 정리,Knowledge Abstraction,Writing,gemini-mini
-지역사회연계 프로그램 지도,Content Generation,Writing,gemini-mini
-교사힐링제목,Content Generation,Writing,gemini-mini
+",Knowledge Abstraction,Writing,Claude
+귀멸의칼날 무이치로를 그려,Content Generation,Writing,Claude
+시골에 카페를 열거야 이름 10개만 지어줘,Content Generation,Writing,Claude
+잘되는 기업은 무엇이 다를까 신형덕지음  요약해줘,Knowledge Abstraction,Writing,Claude
+心のつぶやきを20個考えてください,Content Generation,Writing,Claude
+유인상점과 무인상점의 운영 비용 차이점은 뭐야?,Knowledge Abstraction,Writing,Claude
+잔반 최소화 포스터 아이디어를 생각해줘,Content Generation,Writing,Claude
+종이비행기를 민화 스타일로 그려줘,Content Generation,Writing,Claude
+영화 베테랑의 줄거리,Knowledge Abstraction,Writing,Claude
+문학 재구성된 작품,Content Generation,Writing,Claude
+nook 포함하는 닉네임 만들어줘,Content Generation,Writing,Claude
+환경 봉사부로 5행시 해줘,Content Generation,Writing,Claude
+dinnotion 으로 회사 로고 만들어줘,Content Generation,Writing,Claude
+그림쟁이가 패러디하기 좋은 거 추천해줘,Content Generation,Writing,Claude
+사랑의 시,Content Generation,Writing,Claude
+임씨 성으로 ‘윤’ 이 들어가는 이름 30개 뽑아줘,Content Generation,Writing,Claude
+RAPの終わりにBURASHIで締めたい,Content Generation,Writing,Claude
+면접 불참으로 기업에 미리 연락할건데 문자 만들어줘,Content Generation,Writing,Claude
+宮崎市、うどんでハッシュタグを生成して,Content Generation,Writing,Claude
+감성적인 곤충주제 에세이 제목 10개만 부탁해,Content Generation,Writing,Claude
+자소서도 작성가능하니,Content Generation,Writing,Claude
+여름피부관리법에 대해 인스타에 올릴 피드를 만들어줘,Content Generation,Writing,Claude
+若草物語感想文,Content Generation,Writing,Claude
+動画作成,Content Generation,Writing,Claude
+우리나라 공공의료 문제점과 개선방향,Knowledge Abstraction,Writing,Claude
+그림 그려줘,Content Generation,Writing,Claude
+주일예배 대표기도문,Content Generation,Writing,Claude
+순례 주택 줄거리,Knowledge Abstraction,Writing,Claude
+페미니스트가 봤을때 민희진은어떠한사람인가,Knowledge Abstraction,Writing,Claude
+불안할 때 손톱물어뜯는이유는?을 주제로 서론써줘,Content Generation,Writing,Claude
+민수기 6장 전체 내용은 어떤 의미를 가지고 있어?,Knowledge Abstraction,Writing,Claude
+백승기 바보 5행시 해봐,Content Generation,Writing,Claude
+첨부된 파일을 프리젠테이션으로 만들기 위해 요약해줘,Knowledge Abstraction,Writing,Claude
+귀멸의칼날 팀 이름 지어줘,Content Generation,Writing,Claude
+c컬 셋팅법 블로그 포스팅 해줘,Content Generation,Writing,Claude
+다양한 그림을 로이 리히텐슈타인 화픙으로 그려보세요,Content Generation,Writing,Claude
+문장 정리,Knowledge Abstraction,Writing,Claude
+지역사회연계 프로그램 지도,Content Generation,Writing,Claude
+교사힐링제목,Content Generation,Writing,Claude
 "광복절 인사말
-",Content Generation,Writing,gemini-mini
-ドアインザフェイステクニックの話を作って,Content Generation,Writing,gemini-mini
-이어서 계속 작성,Content Generation,Writing,gemini-mini
-小学生レベルで,Knowledge Abstraction,Writing,gemini-mini
-인천청소업체로 블로그 글좀 작성해줄래?,Content Generation,Writing,gemini-mini
-대한민국 헌법재판소 위헌판결 문서 작성해줘,Content Generation,Writing,gemini-mini
-돈많고 건강하지 못한어르신 이미지,Content Generation,Writing,gemini-mini
-개교 70주년 축하인사말 20초 내외로 알려줘,Content Generation,Writing,gemini-mini
-큰 발 중국아가씨 줄거리 써줘,Knowledge Abstraction,Writing,gemini-mini
-뤼튼 이 trip 이라는 단어를 쉬운 문장으로 만들어죠,Content Generation,Writing,gemini-mini
-수난이대에 대해 오지선다 문제를 만들어줘,Content Generation,Writing,gemini-mini
-의대생이 이 책을 읽고 느낀점 문장으로,Content Generation,Writing,gemini-mini
-나는 일본이 위험하다고 생각한다를 번역해줘,Translation,Language,gemini-mini
-배바깥빗근 영어로 뭐야,Translation,Language,gemini-mini
-귀여워 영어,Translation,Language,gemini-mini
-My heart will go on 번역,Translation,Language,gemini-mini
-2개 다 단단한 식감으로 주세요. 를 일본어로,Translation,Language,gemini-mini
-'이벤트 참여가 제한된 계정' 영어로 하면?,Translation,Language,gemini-mini
-그녀는 열정적이고 멋져요를 영어로,Translation,Language,gemini-mini
-간세포 배양 시 담관 형성 원리,Academic Learning,Language,gemini-mini
-영화에서 말하는 장르라는 것에 대한 질문 몇 가지,Academic Learning,Language,gemini-mini
-영화에서 말하는 장르라는 것에 대한 질문 몇 가지,Academic Learning,Language,gemini-mini
-그러면 더 자자 를 영어로 번역해줘,Translation,Language,gemini-mini
-アロマの勉強をしたいです,Academic Learning,Language,gemini-mini
-대하교 현장실습  보고서에 들어가는 주요내용은,Academic Learning,Language,gemini-mini
-조직문화와 조직의 성과는 어떠한 관계가 있는지 ,Academic Learning,Language,gemini-mini
-공직가치중 다문화가정에 적용될 가치,Academic Learning,Language,gemini-mini
-"""전문팀에게 요청할 수 있습니다."" 를 영어로?",Translation,Language,gemini-mini
-그러면 더 자자 를 영어로 번역해줘,Translation,Language,gemini-mini
-한국어로 해석해줘,Translation,Language,gemini-mini
-피보나치는 수학의 아버지라고 불린다 영작,Translation,Language,gemini-mini
-"""전문팀에게 요청할 수 있습니다."" 를 영어로?",Translation,Language,gemini-mini
+",Content Generation,Writing,Claude
+ドアインザフェイステクニックの話を作って,Content Generation,Writing,Claude
+이어서 계속 작성,Content Generation,Writing,Claude
+小学生レベルで,Knowledge Abstraction,Writing,Claude
+인천청소업체로 블로그 글좀 작성해줄래?,Content Generation,Writing,Claude
+대한민국 헌법재판소 위헌판결 문서 작성해줘,Content Generation,Writing,Claude
+돈많고 건강하지 못한어르신 이미지,Content Generation,Writing,Claude
+개교 70주년 축하인사말 20초 내외로 알려줘,Content Generation,Writing,Claude
+큰 발 중국아가씨 줄거리 써줘,Knowledge Abstraction,Writing,Claude
+뤼튼 이 trip 이라는 단어를 쉬운 문장으로 만들어죠,Content Generation,Writing,Claude
+수난이대에 대해 오지선다 문제를 만들어줘,Content Generation,Writing,Claude
+의대생이 이 책을 읽고 느낀점 문장으로,Content Generation,Writing,Claude
+나는 일본이 위험하다고 생각한다를 번역해줘,Translation,Language,Claude
+배바깥빗근 영어로 뭐야,Translation,Language,Claude
+귀여워 영어,Translation,Language,Claude
+My heart will go on 번역,Translation,Language,Claude
+2개 다 단단한 식감으로 주세요. 를 일본어로,Translation,Language,Claude
+'이벤트 참여가 제한된 계정' 영어로 하면?,Translation,Language,Claude
+그녀는 열정적이고 멋져요를 영어로,Translation,Language,Claude
+간세포 배양 시 담관 형성 원리,Academic Learning,Language,Claude
+영화에서 말하는 장르라는 것에 대한 질문 몇 가지,Academic Learning,Language,Claude
+영화에서 말하는 장르라는 것에 대한 질문 몇 가지,Academic Learning,Language,Claude
+그러면 더 자자 를 영어로 번역해줘,Translation,Language,Claude
+アロマの勉強をしたいです,Academic Learning,Language,Claude
+대하교 현장실습  보고서에 들어가는 주요내용은,Academic Learning,Language,Claude
+조직문화와 조직의 성과는 어떠한 관계가 있는지 ,Academic Learning,Language,Claude
+공직가치중 다문화가정에 적용될 가치,Academic Learning,Language,Claude
+"""전문팀에게 요청할 수 있습니다."" 를 영어로?",Translation,Language,Claude
+그러면 더 자자 를 영어로 번역해줘,Translation,Language,Claude
+한국어로 해석해줘,Translation,Language,Claude
+피보나치는 수학의 아버지라고 불린다 영작,Translation,Language,Claude
+"""전문팀에게 요청할 수 있습니다."" 를 영어로?",Translation,Language,Claude
 "내가했던 행동과말
-용서해 주세요.영어로 ",Translation,Language,gemini-mini
-꽃꽃이를 할 수 있나요?를 영어로 번역해 줘,Translation,Language,gemini-mini
-'이벤트 참여가 제한된 계정' 영어로 하면?,Translation,Language,gemini-mini
-MLE 바이어스에 대해서 설명해줘,Academic Learning,Language,gemini-mini
-중국어로 보지,Translation,Language,gemini-mini
-이분은 회사 담당자입니다 영어로,Translation,Language,gemini-mini
-조직문화와 조직의 성과는 어떠한 관계가 있는지 ,Academic Learning,Language,gemini-mini
-번역이 필요합니다 ,Translation,Language,gemini-mini
-“对不起现在外出中，等下回家之后立马更新实物照片”翻译成日语,Translation,Language,gemini-mini
-X선 촬영의 원리를 탐구 주제로 잡아줘,Academic Learning,Language,gemini-mini
-한국을 세계로 영어로,Translation,Language,gemini-mini
-인간관계 본질,Academic Learning,Language,gemini-mini
-태권도 속에 있는 과학원리를 알려즈ㅓ,Academic Learning,Language,gemini-mini
-꽃꽃이를 할 수 있나요?를 영어로 번역해 줘,Translation,Language,gemini-mini
-근데 한국인이 아니라면 중국인인가? 를 영어로 번역해줘,Translation,Language,gemini-mini
-귀여워 영어,Translation,Language,gemini-mini
-이거 전부 일입니다.. 영어,Translation,Language,gemini-mini
-이거 전부 일입니다.. 영어,Translation,Language,gemini-mini
-‘보물 7개 찾기‘ 영어로 번역해 줘,Translation,Language,gemini-mini
-이거 전부 일입니다.. 영어,Translation,Language,gemini-mini
-정치외교학과 물리학을 연관지을 수 있을까,Academic Learning,Language,gemini-mini
-"Hello, English please",Translation,Language,gemini-mini
+용서해 주세요.영어로 ",Translation,Language,Claude
+꽃꽃이를 할 수 있나요?를 영어로 번역해 줘,Translation,Language,Claude
+'이벤트 참여가 제한된 계정' 영어로 하면?,Translation,Language,Claude
+MLE 바이어스에 대해서 설명해줘,Academic Learning,Language,Claude
+중국어로 보지,Translation,Language,Claude
+이분은 회사 담당자입니다 영어로,Translation,Language,Claude
+조직문화와 조직의 성과는 어떠한 관계가 있는지 ,Academic Learning,Language,Claude
+번역이 필요합니다 ,Translation,Language,Claude
+“对不起现在外出中，等下回家之后立马更新实物照片”翻译成日语,Translation,Language,Claude
+X선 촬영의 원리를 탐구 주제로 잡아줘,Academic Learning,Language,Claude
+한국을 세계로 영어로,Translation,Language,Claude
+인간관계 본질,Academic Learning,Language,Claude
+태권도 속에 있는 과학원리를 알려즈ㅓ,Academic Learning,Language,Claude
+꽃꽃이를 할 수 있나요?를 영어로 번역해 줘,Translation,Language,Claude
+근데 한국인이 아니라면 중국인인가? 를 영어로 번역해줘,Translation,Language,Claude
+귀여워 영어,Translation,Language,Claude
+이거 전부 일입니다.. 영어,Translation,Language,Claude
+이거 전부 일입니다.. 영어,Translation,Language,Claude
+‘보물 7개 찾기‘ 영어로 번역해 줘,Translation,Language,Claude
+이거 전부 일입니다.. 영어,Translation,Language,Claude
+정치외교학과 물리학을 연관지을 수 있을까,Academic Learning,Language,Claude
+"Hello, English please",Translation,Language,Claude
 "내가했던 행동과말
-용서해 주세요.영어로 ",Translation,Language,gemini-mini
-대하교 현장실습  보고서에 들어가는 주요내용은,Academic Learning,Language,gemini-mini
-정치외교학과 물리학을 연관지을 수 있을까,Academic Learning,Language,gemini-mini
+용서해 주세요.영어로 ",Translation,Language,Claude
+대하교 현장실습  보고서에 들어가는 주요내용은,Academic Learning,Language,Claude
+정치외교학과 물리학을 연관지을 수 있을까,Academic Learning,Language,Claude
 "성인지적관점의 필요성
-",Academic Learning,Language,gemini-mini
-'이벤트 참여가 제한된 계정' 영어로 하면?,Translation,Language,gemini-mini
-문법항목등급화의필요성,Academic Learning,Language,gemini-mini
-文档 한자를 한글로만 번역,Translation,Language,gemini-mini
-审批  한국어로 ,Translation,Language,gemini-mini
-상권의 개념과 관련된 논문을 찾아줘.,Academic Learning,Language,gemini-mini
-번역이 필요합니다 ,Translation,Language,gemini-mini
-꽃꽃이를 할 수 있나요?를 영어로 번역해 줘,Translation,Language,gemini-mini
-탄소배출량 실증지 선정을 위한 재정자립도 용도,Academic Learning,Language,gemini-mini
-수학교사의 바람직한 교육관,Academic Learning,Language,gemini-mini
-번역 부탁해요. 한국어로,Translation,Language,gemini-mini
-공직가치중 다문화가정에 적용될 가치,Academic Learning,Language,gemini-mini
-"""전문팀에게 요청할 수 있습니다."" 를 영어로?",Translation,Language,gemini-mini
-my heart will go on 번역해줘,Translation,Language,gemini-mini
-태권도 속에 있는 과학원리를 알려즈ㅓ,Academic Learning,Language,gemini-mini
-꽃꽃이를 할 수 있나요?를 영어로 번역해 줘,Translation,Language,gemini-mini
-공연예술학과 영문번역,Translation,Language,gemini-mini
-마늘과 인간의 진화,Academic Learning,Language,gemini-mini
-내가방구꼈어 영어로,Translation,Language,gemini-mini
-‘보물 7개 찾기‘ 영어로 번역해 줘,Translation,Language,gemini-mini
-parzen windows에 대해서 설명해줘,Academic Learning,Language,gemini-mini
-영어 문장 번역해줘,Translation,Language,gemini-mini
-서양음악사를 가지고 연구수업을 진행해야해.,Academic Learning,Language,gemini-mini
-베트남어로 1부터 10까지 발음을 적어줘.,Language Learning,Language,gemini-mini
-여름방학 어땠어요? 이 문장을 영어로 바꿔줘,Translation,Language,gemini-mini
-상권의 개념과 관련된 논문을 찾아줘.,Academic Learning,Language,gemini-mini
-"""전문팀에게 요청할 수 있습니다."" 를 영어로?",Translation,Language,gemini-mini
-숙련도 평가를 위한 z스코어의 개념과 공식 알려줘,Academic Learning,Language,gemini-mini
+",Academic Learning,Language,Claude
+'이벤트 참여가 제한된 계정' 영어로 하면?,Translation,Language,Claude
+문법항목등급화의필요성,Academic Learning,Language,Claude
+文档 한자를 한글로만 번역,Translation,Language,Claude
+审批  한국어로 ,Translation,Language,Claude
+상권의 개념과 관련된 논문을 찾아줘.,Academic Learning,Language,Claude
+번역이 필요합니다 ,Translation,Language,Claude
+꽃꽃이를 할 수 있나요?를 영어로 번역해 줘,Translation,Language,Claude
+탄소배출량 실증지 선정을 위한 재정자립도 용도,Academic Learning,Language,Claude
+수학교사의 바람직한 교육관,Academic Learning,Language,Claude
+번역 부탁해요. 한국어로,Translation,Language,Claude
+공직가치중 다문화가정에 적용될 가치,Academic Learning,Language,Claude
+"""전문팀에게 요청할 수 있습니다."" 를 영어로?",Translation,Language,Claude
+my heart will go on 번역해줘,Translation,Language,Claude
+태권도 속에 있는 과학원리를 알려즈ㅓ,Academic Learning,Language,Claude
+꽃꽃이를 할 수 있나요?를 영어로 번역해 줘,Translation,Language,Claude
+공연예술학과 영문번역,Translation,Language,Claude
+마늘과 인간의 진화,Academic Learning,Language,Claude
+내가방구꼈어 영어로,Translation,Language,Claude
+‘보물 7개 찾기‘ 영어로 번역해 줘,Translation,Language,Claude
+parzen windows에 대해서 설명해줘,Academic Learning,Language,Claude
+영어 문장 번역해줘,Translation,Language,Claude
+서양음악사를 가지고 연구수업을 진행해야해.,Academic Learning,Language,Claude
+베트남어로 1부터 10까지 발음을 적어줘.,Language Learning,Language,Claude
+여름방학 어땠어요? 이 문장을 영어로 바꿔줘,Translation,Language,Claude
+상권의 개념과 관련된 논문을 찾아줘.,Academic Learning,Language,Claude
+"""전문팀에게 요청할 수 있습니다."" 를 영어로?",Translation,Language,Claude
+숙련도 평가를 위한 z스코어의 개념과 공식 알려줘,Academic Learning,Language,Claude
 "40대를 영어로
-",Translation,Language,gemini-mini
-상권의 개념과 관련된 논문을 찾아줘.,Academic Learning,Language,gemini-mini
+",Translation,Language,Claude
+상권의 개념과 관련된 논문을 찾아줘.,Academic Learning,Language,Claude
 "40대를 영어로
-",Translation,Language,gemini-mini
-배바깥빗근 영어로 뭐야,Translation,Language,gemini-mini
-翻訳をお願いしたいのですが。,Translation,Language,gemini-mini
-审批  한국어로 ,Translation,Language,gemini-mini
-번역 부탁해요. 한국어로,Translation,Language,gemini-mini
-마늘과 인간의 진화,Academic Learning,Language,gemini-mini
-estimation window에 대해서 설명해줘,Academic Learning,Language,gemini-mini
-以下を翻訳して,Translation,Language,gemini-mini
-이거 전부 일입니다.. 영어,Translation,Language,gemini-mini
-탄소배출량 실증지 선정을 위한 재정자립도 용도,Academic Learning,Language,gemini-mini
-日本に翻訳して下さい「高压分接室」,Translation,Language,gemini-mini
-달집태우기를 일본말은,Translation,Language,gemini-mini
-귀여워 영어,Translation,Language,gemini-mini
-My heart will go on 번역,Translation,Language,gemini-mini
-영어 문장 번역해줘,Translation,Language,gemini-mini
-간세포 배양 시 담관 형성 원리,Academic Learning,Language,gemini-mini
-이거 전부 일입니다.. 영어,Translation,Language,gemini-mini
-공연예술학의 필요성은,Academic Learning,Language,gemini-mini
-무균상태를 영어로,Translation,Language,gemini-mini
-근데 한국인이 아니라면 중국인인가? 를 영어로 번역해줘,Translation,Language,gemini-mini
-8월 영어로,Translation,Language,gemini-mini
-공직가치중 다문화가정에 적용될 가치,Academic Learning,Language,gemini-mini
-アロマの勉強をしたいです,Academic Learning,Language,gemini-mini
-낭낭 영어,Translation,Language,gemini-mini
-번역이 필요합니다 ,Translation,Language,gemini-mini
+",Translation,Language,Claude
+배바깥빗근 영어로 뭐야,Translation,Language,Claude
+翻訳をお願いしたいのですが。,Translation,Language,Claude
+审批  한국어로 ,Translation,Language,Claude
+번역 부탁해요. 한국어로,Translation,Language,Claude
+마늘과 인간의 진화,Academic Learning,Language,Claude
+estimation window에 대해서 설명해줘,Academic Learning,Language,Claude
+以下を翻訳して,Translation,Language,Claude
+이거 전부 일입니다.. 영어,Translation,Language,Claude
+탄소배출량 실증지 선정을 위한 재정자립도 용도,Academic Learning,Language,Claude
+日本に翻訳して下さい「高压分接室」,Translation,Language,Claude
+달집태우기를 일본말은,Translation,Language,Claude
+귀여워 영어,Translation,Language,Claude
+My heart will go on 번역,Translation,Language,Claude
+영어 문장 번역해줘,Translation,Language,Claude
+간세포 배양 시 담관 형성 원리,Academic Learning,Language,Claude
+이거 전부 일입니다.. 영어,Translation,Language,Claude
+공연예술학의 필요성은,Academic Learning,Language,Claude
+무균상태를 영어로,Translation,Language,Claude
+근데 한국인이 아니라면 중국인인가? 를 영어로 번역해줘,Translation,Language,Claude
+8월 영어로,Translation,Language,Claude
+공직가치중 다문화가정에 적용될 가치,Academic Learning,Language,Claude
+アロマの勉強をしたいです,Academic Learning,Language,Claude
+낭낭 영어,Translation,Language,Claude
+번역이 필요합니다 ,Translation,Language,Claude
 쿵쿵따 ,Gaming and Social Interaction,Others,gemini-mini
 램울 쉽울,Chaotic,Others,gemini-mini
 섹시한 자넷 그림,Inappropriate Content Creation,Others,gemini-mini
@@ -424,103 +424,103 @@ painting brings me joy,Chit-chat and Counseling,Others,gemini-mini
 Don't let it be. 문장이 됩니까?,Linguistic Analysis,Others,gemini-mini
 せっくす,Inappropriate Content Creation,Others,gemini-mini
 난항을 겪다와 비슷한 말,Linguistic Analysis,Others,gemini-mini
-IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gemini-mini
-misskey.pyでのbotのプログラムのサンプルを作って,Code Generation and Refactoring,Coding,gemini-mini
-vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gemini-mini
-엑셀 코드 생성이 필요해,Code Generation and Refactoring,Coding,gemini-mini
-next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gemini-mini
-딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gemini-mini
-IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gemini-mini
-유니티 덧셈 메서드,Development Assistance,Coding,gemini-mini
-고화질 RPG 검사게임 코드 출력 해줘,Code Generation and Refactoring,Coding,gemini-mini
-rag할 때 langchain 없이 개발하고 싶어,Development Assistance,Coding,gemini-mini
-엑셀 코드 생성이 필요해,Code Generation and Refactoring,Coding,gemini-mini
-엑셀 코드 생성이 필요해,Code Generation and Refactoring,Coding,gemini-mini
-엑셀 컬색 카운트,Code Generation and Refactoring,Coding,gemini-mini
-딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gemini-mini
-예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gemini-mini
-next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gemini-mini
-엑셀 컬색 카운트,Code Generation and Refactoring,Coding,gemini-mini
-dec타입을 0ct으로 변환해주는 c언어 알려줘,Code Generation and Refactoring,Coding,gemini-mini
-コマンドプロンプトで文字列を入力するスクリプトを書くには？,Code Generation and Refactoring,Coding,gemini-mini
-딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gemini-mini
-scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gemini-mini
-엑셀 컬색 카운트,Code Generation and Refactoring,Coding,gemini-mini
-스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gemini-mini
-DeleteIngredients 구현해줘,Development Assistance,Coding,gemini-mini
-scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gemini-mini
-딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gemini-mini
-autohotkey v1 コートをv2に変換してください。,Code Generation and Refactoring,Coding,gemini-mini
-스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gemini-mini
-유니티 덧셈 메서드,Development Assistance,Coding,gemini-mini
-コマンドプロンプトで文字列を入力するスクリプトを書くには？,Code Generation and Refactoring,Coding,gemini-mini
-스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gemini-mini
-주식자동매매 프로그램 만들어줘 ,Code Generation and Refactoring,Coding,gemini-mini
-react로 간단한 코드 짜줘,Code Generation and Refactoring,Coding,gemini-mini
-파이썬으로 리스트 만드는 방법을 알려줘,Development Assistance,Coding,gemini-mini
-파이썬으로 리스트 만드는 방법을 알려줘,Development Assistance,Coding,gemini-mini
-스위프트에서 옵셔널 바인딩이 뭔지 알려줘,Development Assistance,Coding,gemini-mini
-파이션코딩,Development Assistance,Coding,gemini-mini
-vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gemini-mini
-vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gemini-mini
-고화질 RPG 검사게임 코드 출력 해줘,Code Generation and Refactoring,Coding,gemini-mini
-스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gemini-mini
-rag할 때 langchain 없이 개발하고 싶어,Development Assistance,Coding,gemini-mini
-misskey.pyでのbotのプログラムのサンプルを作って,Code Generation and Refactoring,Coding,gemini-mini
-주식자동매매 프로그램 만들어줘 ,Code Generation and Refactoring,Coding,gemini-mini
-dec타입을 0ct으로 변환해주는 c언어 알려줘,Code Generation and Refactoring,Coding,gemini-mini
-Fully Connected Layer가 뭐야?,Development Assistance,Coding,gemini-mini
-고화질 RPG 검사게임 코드 출력 해줘,Code Generation and Refactoring,Coding,gemini-mini
-IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gemini-mini
-딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gemini-mini
-스위프트에서 인아웃이 뭔지 알려줘,Development Assistance,Coding,gemini-mini
-IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gemini-mini
-로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gemini-mini
-예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gemini-mini
-주식자동매매 프로그램 만들어줘 ,Code Generation and Refactoring,Coding,gemini-mini
-Arraylist 선언방법,Development Assistance,Coding,gemini-mini
-로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gemini-mini
-유니티 덧셈 메서드,Development Assistance,Coding,gemini-mini
-스위프트에서 인아웃이 뭔지 알려줘,Development Assistance,Coding,gemini-mini
-유니티 덧셈 메서드,Development Assistance,Coding,gemini-mini
-딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gemini-mini
-scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gemini-mini
-misskey.pyでのbotのプログラムのサンプルを作って,Code Generation and Refactoring,Coding,gemini-mini
-vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gemini-mini
-IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gemini-mini
-스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gemini-mini
-next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gemini-mini
-vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gemini-mini
-dec타입을 0ct으로 변환해주는 c언어 알려줘,Code Generation and Refactoring,Coding,gemini-mini
-Arraylist 선언방법,Development Assistance,Coding,gemini-mini
-react로 간단한 코드 짜줘,Code Generation and Refactoring,Coding,gemini-mini
-예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gemini-mini
-로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gemini-mini
-next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gemini-mini
-예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gemini-mini
-scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gemini-mini
-DeleteIngredients 구현해줘,Development Assistance,Coding,gemini-mini
-コマンドプロンプトで文字列を入力するスクリプトを書くには？,Code Generation and Refactoring,Coding,gemini-mini
-스위프트에서 옵셔널 바인딩이 뭔지 알려줘,Development Assistance,Coding,gemini-mini
-예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gemini-mini
-コマンドプロンプトで文字列を入力するスクリプトを書くには？,Code Generation and Refactoring,Coding,gemini-mini
-로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gemini-mini
-유니티 덧셈 메서드,Development Assistance,Coding,gemini-mini
-스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gemini-mini
-scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gemini-mini
-스위프트에서 옵셔널 바인딩이 뭔지 알려줘,Development Assistance,Coding,gemini-mini
-예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gemini-mini
-Arraylist 선언방법,Development Assistance,Coding,gemini-mini
-파이션코딩,Development Assistance,Coding,gemini-mini
-vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gemini-mini
-next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gemini-mini
-Arraylist 선언방법,Development Assistance,Coding,gemini-mini
-rag할 때 langchain 없이 개발하고 싶어,Development Assistance,Coding,gemini-mini
-주식자동매매 프로그램 만들어줘 ,Code Generation and Refactoring,Coding,gemini-mini
-next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gemini-mini
-딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gemini-mini
-파이션코딩,Development Assistance,Coding,gemini-mini
-스프링 배치 잡 젠킨스에 바인딩하기,Development Assistance,Coding,gemini-mini
-로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gemini-mini
-vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gemini-mini
-딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gemini-mini
+IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gpt-o1
+misskey.pyでのbotのプログラムのサンプルを作って,Code Generation and Refactoring,Coding,gpt-o1
+vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gpt-o1
+엑셀 코드 생성이 필요해,Code Generation and Refactoring,Coding,gpt-o1
+next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gpt-o1
+딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gpt-o1
+IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gpt-o1
+유니티 덧셈 메서드,Development Assistance,Coding,gpt-o1
+고화질 RPG 검사게임 코드 출력 해줘,Code Generation and Refactoring,Coding,gpt-o1
+rag할 때 langchain 없이 개발하고 싶어,Development Assistance,Coding,gpt-o1
+엑셀 코드 생성이 필요해,Code Generation and Refactoring,Coding,gpt-o1
+엑셀 코드 생성이 필요해,Code Generation and Refactoring,Coding,gpt-o1
+엑셀 컬색 카운트,Code Generation and Refactoring,Coding,gpt-o1
+딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gpt-o1
+예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gpt-o1
+next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gpt-o1
+엑셀 컬색 카운트,Code Generation and Refactoring,Coding,gpt-o1
+dec타입을 0ct으로 변환해주는 c언어 알려줘,Code Generation and Refactoring,Coding,gpt-o1
+コマンドプロンプトで文字列を入力するスクリプトを書くには？,Code Generation and Refactoring,Coding,gpt-o1
+딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gpt-o1
+scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gpt-o1
+엑셀 컬색 카운트,Code Generation and Refactoring,Coding,gpt-o1
+스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gpt-o1
+DeleteIngredients 구현해줘,Development Assistance,Coding,gpt-o1
+scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gpt-o1
+딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gpt-o1
+autohotkey v1 コートをv2に変換してください。,Code Generation and Refactoring,Coding,gpt-o1
+스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gpt-o1
+유니티 덧셈 메서드,Development Assistance,Coding,gpt-o1
+コマンドプロンプトで文字列を入力するスクリプトを書くには？,Code Generation and Refactoring,Coding,gpt-o1
+스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gpt-o1
+주식자동매매 프로그램 만들어줘 ,Code Generation and Refactoring,Coding,gpt-o1
+react로 간단한 코드 짜줘,Code Generation and Refactoring,Coding,gpt-o1
+파이썬으로 리스트 만드는 방법을 알려줘,Development Assistance,Coding,gpt-o1
+파이썬으로 리스트 만드는 방법을 알려줘,Development Assistance,Coding,gpt-o1
+스위프트에서 옵셔널 바인딩이 뭔지 알려줘,Development Assistance,Coding,gpt-o1
+파이션코딩,Development Assistance,Coding,gpt-o1
+vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gpt-o1
+vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gpt-o1
+고화질 RPG 검사게임 코드 출력 해줘,Code Generation and Refactoring,Coding,gpt-o1
+스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gpt-o1
+rag할 때 langchain 없이 개발하고 싶어,Development Assistance,Coding,gpt-o1
+misskey.pyでのbotのプログラムのサンプルを作って,Code Generation and Refactoring,Coding,gpt-o1
+주식자동매매 프로그램 만들어줘 ,Code Generation and Refactoring,Coding,gpt-o1
+dec타입을 0ct으로 변환해주는 c언어 알려줘,Code Generation and Refactoring,Coding,gpt-o1
+Fully Connected Layer가 뭐야?,Development Assistance,Coding,gpt-o1
+고화질 RPG 검사게임 코드 출력 해줘,Code Generation and Refactoring,Coding,gpt-o1
+IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gpt-o1
+딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gpt-o1
+스위프트에서 인아웃이 뭔지 알려줘,Development Assistance,Coding,gpt-o1
+IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gpt-o1
+로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gpt-o1
+예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gpt-o1
+주식자동매매 프로그램 만들어줘 ,Code Generation and Refactoring,Coding,gpt-o1
+Arraylist 선언방법,Development Assistance,Coding,gpt-o1
+로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gpt-o1
+유니티 덧셈 메서드,Development Assistance,Coding,gpt-o1
+스위프트에서 인아웃이 뭔지 알려줘,Development Assistance,Coding,gpt-o1
+유니티 덧셈 메서드,Development Assistance,Coding,gpt-o1
+딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gpt-o1
+scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gpt-o1
+misskey.pyでのbotのプログラムのサンプルを作って,Code Generation and Refactoring,Coding,gpt-o1
+vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gpt-o1
+IngredientDeleteResponse 구현해줘,Development Assistance,Coding,gpt-o1
+스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gpt-o1
+next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gpt-o1
+vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gpt-o1
+dec타입을 0ct으로 변환해주는 c언어 알려줘,Code Generation and Refactoring,Coding,gpt-o1
+Arraylist 선언방법,Development Assistance,Coding,gpt-o1
+react로 간단한 코드 짜줘,Code Generation and Refactoring,Coding,gpt-o1
+예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gpt-o1
+로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gpt-o1
+next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gpt-o1
+예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gpt-o1
+scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gpt-o1
+DeleteIngredients 구현해줘,Development Assistance,Coding,gpt-o1
+コマンドプロンプトで文字列を入力するスクリプトを書くには？,Code Generation and Refactoring,Coding,gpt-o1
+스위프트에서 옵셔널 바인딩이 뭔지 알려줘,Development Assistance,Coding,gpt-o1
+예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gpt-o1
+コマンドプロンプトで文字列を入力するスクリプトを書くには？,Code Generation and Refactoring,Coding,gpt-o1
+로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gpt-o1
+유니티 덧셈 메서드,Development Assistance,Coding,gpt-o1
+스프링 쿼츠 모니터링 디펜던시,Development Assistance,Coding,gpt-o1
+scss 파일은 뭐야? css에 어떻게 적용해?,Development Assistance,Coding,gpt-o1
+스위프트에서 옵셔널 바인딩이 뭔지 알려줘,Development Assistance,Coding,gpt-o1
+예시 코드 하나 작성해줄래?,Code Generation and Refactoring,Coding,gpt-o1
+Arraylist 선언방법,Development Assistance,Coding,gpt-o1
+파이션코딩,Development Assistance,Coding,gpt-o1
+vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gpt-o1
+next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gpt-o1
+Arraylist 선언방법,Development Assistance,Coding,gpt-o1
+rag할 때 langchain 없이 개발하고 싶어,Development Assistance,Coding,gpt-o1
+주식자동매매 프로그램 만들어줘 ,Code Generation and Refactoring,Coding,gpt-o1
+next-intl nextjs 코드짜줘,Code Generation and Refactoring,Coding,gpt-o1
+딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gpt-o1
+파이션코딩,Development Assistance,Coding,gpt-o1
+스프링 배치 잡 젠킨스에 바인딩하기,Development Assistance,Coding,gpt-o1
+로또 1등 예측을 위한 phyton code를 생성해줘,Code Generation and Refactoring,Coding,gpt-o1
+vba 코드 작성 도와줘,Code Generation and Refactoring,Coding,gpt-o1
+딥러닝 SimpleLama finetuning 방법,Development Assistance,Coding,gpt-o1

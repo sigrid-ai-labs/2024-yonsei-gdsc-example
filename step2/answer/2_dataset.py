@@ -3,7 +3,7 @@ from transformers import AutoTokenizer
 import pandas as pd
 
 # 1. CSV 읽어서 df 생성 (이미 llm 컬럼 존재)
-csv_path = "path/to/labeled_data.csv"
+csv_path = "./step1/data/labeled_data.csv"
 df = pd.read_csv(csv_path)
 
 # 2. df를 Dataset으로 변환
@@ -32,7 +32,7 @@ example_text = tokenizer.decode(tokenized_dataset[0]["input_ids"])
 print(example_text)
 
 # 6. 토큰화 & 레이블 인코딩 완료된 Dataset 저장
-save_path = "./encoded_dataset"
+save_path = "./step2/encoded_dataset"
 encoded_dataset.save_to_disk(save_path)
 
 # 7. 추후 사용 예시

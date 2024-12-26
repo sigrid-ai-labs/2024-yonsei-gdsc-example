@@ -6,11 +6,10 @@ df = pd.read_csv(csv_path)
 
 
 def map_to_label(row):
-    intent = row["intent"]
-
-    if intent in ["Information Seeking", "Coding"]:
+    category = row["category"]
+    if category in ["Information Seeking", "Coding"]:
         return "gpt-o1"
-    elif intent in ["Writing", "Language"]:
+    elif category in ["Writing", "Language"]:
         return "Claude"
     else:
         return "gemini-mini"
