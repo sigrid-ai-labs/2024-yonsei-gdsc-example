@@ -1,4 +1,4 @@
-# 2024-yonsei-gdsc-example
+# 2024-responsible-ai-in-action-gdsc-example
 
 ## [Hands-on] 나만의 RAG Agentic 모델 만들기
 

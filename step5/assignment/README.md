@@ -73,7 +73,7 @@
    - (b) 각 시도별 설정, 결과, 배운 점  
    - (c) 한계와 추가 시도 가능성
 3. **제출 방법**
-   - 본 Repository에 `step5/assignment/깃허브_아이디` 폴더에 업로드한 후에 Pull Request 보내기
+   - 본 Repository에 `step5/submission/깃허브_아이디` 폴더에 업로드한 후에 Pull Request 보내기
 
 ---
 
