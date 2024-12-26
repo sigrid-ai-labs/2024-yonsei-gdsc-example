@@ -80,3 +80,5 @@
     - https://www.philschmid.de/fine-tune-modern-bert-in-2025
 - Hugging Face 트랜스포머 문서
     - https://huggingface.co/blog/modernbert
+- 튜토리얼 일부
+    - https://github.com/AnswerDotAI/ModernBERT/blob/main/examples/finetune_modernbert_on_glue.ipynb

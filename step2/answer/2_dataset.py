@@ -13,17 +13,22 @@ dataset = Dataset.from_pandas(df)
 checkpoint = "sigridjineth/ModernBERT-korean-large-preview"
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 
+
 # 4. 토큰화 함수
 def tokenize_function(examples):
     return tokenizer(examples["user_message"], truncation=True, max_length=128)
+
 
 tokenized_dataset = dataset.map(tokenize_function, batched=True)
 
 # 5. llm → 정수 레이블로 변환
 label2id = {"gpt-o1": 0, "Claude": 1, "gemini-mini": 2}
+
+
 def encode_label(examples):
     examples["labels"] = [label2id[val] for val in examples["llm"]]
     return examples
+
 
 encoded_dataset = tokenized_dataset.map(encode_label, batched=True)
 

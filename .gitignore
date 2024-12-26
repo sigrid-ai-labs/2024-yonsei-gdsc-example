@@ -1,1 +1,3 @@
 .venv/
+./step3/router_bert_ckpt/
+step3/router_bert_ckpt/
